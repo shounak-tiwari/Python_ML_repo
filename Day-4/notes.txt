@@ -1,0 +1,10 @@
+String : String is a sequence of characters, incolsed between single double and multiple quotes.. 
+in python String is immutable which means that they cannot be changes after they are created.
+it can not have a separate character type...
+
+methods of string : 
+lower() : Convert all characters in a string into lower case 
+upper() : Convert all characters in a string into upper case 
+title() : Convert all characters in a string into title case 
+
+'''bhagat singh is hero of india his mother's name  is "zebronic" '''
