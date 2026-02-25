@@ -1,0 +1,27 @@
+Create a class named Student with the following private data members:
+•	rollNo (int)
+•	name (string)
+•	marks1, marks2, marks3 (int)
+•	total (int)
+•	percentage (float)
+•	grade (char)
+Grade Criteria:
+Percentage ≥ 90 → Grade A
+Percentage ≥ 75 → Grade B
+Percentage ≥ 60 → Grade C
+Percentage ≥ 50 → Grade D
+Else → Grade F
+Functions:
+1.	set_RollNo(int r)
+2.	set_Name(string n)
+3.	set_Marks(int m1, int m2, int m3)
+4.	calculateTotal()
+5.	calculatePercentage()
+6.	calculateGrade()
+7.	display()
+Constraints:
+0 ≤ marks ≤ 100
+1 ≤ name.length() ≤ 100
+Expected Complexity:
+Time Complexity: O(1)
+Space Complexity: O(1)
